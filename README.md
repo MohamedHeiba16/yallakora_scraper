@@ -7,7 +7,8 @@ Script work when you input any data you want and all data will generate by scrap
 
 ### ScreenShot 
 ![Screenshot 2023-12-01 140116](https://github.com/MohamedHeiba16/yallakora_scraper/assets/152610603/a4468937-c1b7-4bb2-8f81-fcefb1bd4c3c)
-![Screenshot 2023-12-01 140244](https://github.com/MohamedHeiba16/yallakora_scraper/assets/152610603/f0d83c8b-f744-432b-b5ed-5e8277b874f8)
+![287615061-bad256cc-aa9a-4db9-a0c4-c33b6c92844d](https://github.com/MohamedHeiba16/yallakora_scraper/assets/152610603/53743e69-39bb-46a5-b377-399538e0c408)
+
 
 
 
